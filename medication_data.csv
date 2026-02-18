@@ -1,0 +1,21 @@
+Patient_ID,Medication,Dosage,Frequency
+1,Enalapril,10mg,Once a day
+2,Losartan,,Once a day
+3,Amlodipine,5mg,
+4,Hydrochlorothiazide,25mg,Once a day
+5,Metoprolol,50mg,Once a day
+6,Enalapril,5mg,Once a day
+7,Losartan,25mg,Once a day
+8,Amlodipine,10mg,Once a day
+9,Hydrochlorothiazide,12.5mg,Once a day
+10,Metoprolol,25mg,Once a day
+11,Enalapril,10mg,Once a day
+12,Losartan,50mg,Once a day
+13,Amlodipine,5mg,Once a day
+14,Hydrochlorothiazide,25mg,Once a day
+15,Metoprolol,,Once a day
+16,Enalapril,5mg,Once a day
+17,Losartan,25mg,Once a day
+18,Amlodipine,10mg,Once a day
+19,Hydrochlorothiazide,12.5mg,Once a day
+20,Metoprolol,25mg,Once a day
