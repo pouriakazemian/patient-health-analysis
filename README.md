@@ -27,5 +27,16 @@ It focuses on **patient health metrics** and their **medication records**, provi
 
 ---
 
-## Project Structure
+## Project Structure 
+patient-health-analysis/
+│
+├── data/
+│ ├── Patient_data.csv # Patient health data
+│ └── medication_data.csv # Patient medication records
+│
+├── src/
+│ └── analysis.py # Python script with full analysis
+│
+├── README.md # Project overview
+└── requirements.txt # Dep
 
